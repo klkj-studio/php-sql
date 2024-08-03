@@ -5,7 +5,7 @@ $encryptionKey = 'KEY';
 
 // 授权码与加密后的存储
 $authorizationCodes = [
-    '授权码' => true, // 授权码[用于对请求进行鉴权]
+    'KEY' => true, // 授权码[用于对请求进行鉴权]
 ];
 
 // 是否启用 GET 请求
